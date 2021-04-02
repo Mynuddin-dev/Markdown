@@ -13,9 +13,9 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 - Mastering Markdown : [Github Guides](https://guides.github.com/features/mastering-markdown/)
 - Markdown : [Monster](https://markdownmonster.west-wind.com/)
 
-***<p align=center>
-  I think this book is enough to learn about Markdown
-</p>***
+<p align=center>
+  *** I think this book is enough to learn about Markdown***
+</p>
 
 ![The Markdown Guide By Matt Cone](https://d33wubrfki0l68.cloudfront.net/cb41dd8e38b0543a305f9c56db89b46caa802263/25192/assets/images/book-cover.jpg)
 
